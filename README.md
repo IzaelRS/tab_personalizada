@@ -4,5 +4,5 @@ Customizando componentes da Tab_Bar
 <h1 align="center">Protótipo de animações e navegação  "</h1>
 </div>
 <div align="center">
-  <gif src="./src/git/teste.gif" height ="600" width="350">
+  <img src="./src/git/teste.gif" height ="600" width="350">
 </div>
