@@ -1,7 +1,7 @@
 # tab_personalizada
 Customizando componentes da Tab_Bar
 <div align="center">
-<h1 align="center">Protótipo de Tab_bar  "</h1>
+<h1 align="center">Protótipo de Tab_bar "</h1>
 </div>
 <div align="center">
   <img src="./src/git/teste1.pmj" height ="600" width="350">
